@@ -1,0 +1,33 @@
+C:\Users\Wikto\Documents\GitHub\SQL ALL\SQL ALL\bin\Debug\x86\sqlite3.dll
+C:\Users\Wikto\Documents\GitHub\SQL ALL\SQL ALL\bin\Debug\x64\sqlite3.dll
+C:\Users\Wikto\Documents\GitHub\SQL ALL\SQL ALL\bin\Debug\SQL ALL.exe.config
+C:\Users\Wikto\Documents\GitHub\SQL ALL\SQL ALL\bin\Debug\SQL ALL.exe
+C:\Users\Wikto\Documents\GitHub\SQL ALL\SQL ALL\bin\Debug\SQL ALL.pdb
+C:\Users\Wikto\Documents\GitHub\SQL ALL\SQL ALL\bin\Debug\EntityFramework.dll
+C:\Users\Wikto\Documents\GitHub\SQL ALL\SQL ALL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wikto\Documents\GitHub\SQL ALL\SQL ALL\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Wikto\Documents\GitHub\SQL ALL\SQL ALL\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Wikto\Documents\GitHub\SQL ALL\SQL ALL\bin\Debug\System.Buffers.dll
+C:\Users\Wikto\Documents\GitHub\SQL ALL\SQL ALL\bin\Debug\System.Data.SQLite.dll
+C:\Users\Wikto\Documents\GitHub\SQL ALL\SQL ALL\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Wikto\Documents\GitHub\SQL ALL\SQL ALL\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Wikto\Documents\GitHub\SQL ALL\SQL ALL\bin\Debug\System.Memory.dll
+C:\Users\Wikto\Documents\GitHub\SQL ALL\SQL ALL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Wikto\Documents\GitHub\SQL ALL\SQL ALL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Wikto\Documents\GitHub\SQL ALL\SQL ALL\bin\Debug\EntityFramework.xml
+C:\Users\Wikto\Documents\GitHub\SQL ALL\SQL ALL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wikto\Documents\GitHub\SQL ALL\SQL ALL\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Wikto\Documents\GitHub\SQL ALL\SQL ALL\bin\Debug\System.Buffers.xml
+C:\Users\Wikto\Documents\GitHub\SQL ALL\SQL ALL\bin\Debug\System.Data.SQLite.xml
+C:\Users\Wikto\Documents\GitHub\SQL ALL\SQL ALL\bin\Debug\System.Memory.xml
+C:\Users\Wikto\Documents\GitHub\SQL ALL\SQL ALL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Wikto\Documents\GitHub\SQL ALL\SQL ALL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Wikto\Documents\GitHub\SQL ALL\SQL ALL\obj\Debug\SQL ALL.csproj.AssemblyReference.cache
+C:\Users\Wikto\Documents\GitHub\SQL ALL\SQL ALL\obj\Debug\SQL ALL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wikto\Documents\GitHub\SQL ALL\SQL ALL\obj\Debug\SQL_ALL.Properties.Resources.resources
+C:\Users\Wikto\Documents\GitHub\SQL ALL\SQL ALL\obj\Debug\SQL ALL.csproj.GenerateResource.cache
+C:\Users\Wikto\Documents\GitHub\SQL ALL\SQL ALL\obj\Debug\SQL ALL.csproj.CoreCompileInputs.cache
+C:\Users\Wikto\Documents\GitHub\SQL ALL\SQL ALL\obj\Debug\SQL ALL.csproj.CopyComplete
+C:\Users\Wikto\Documents\GitHub\SQL ALL\SQL ALL\obj\Debug\SQL ALL.exe
+C:\Users\Wikto\Documents\GitHub\SQL ALL\SQL ALL\obj\Debug\SQL ALL.pdb
+C:\Users\Wikto\Documents\GitHub\SQL ALL\SQL ALL\obj\Debug\SQL_ALL.Form1.resources
