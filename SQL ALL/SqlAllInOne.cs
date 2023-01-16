@@ -257,7 +257,7 @@ namespace SQL_ALL
 
 
                 }
-                // MessageBox.Show(sqlAllInOne.selectSQLDataID(0)[0]);
+                // MessageBox.Show(sqlAllInOne.selectSQLDataID(0)[0]); 
                 return roboczy;
             }
 
